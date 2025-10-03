@@ -1,0 +1,21 @@
+title: "Farhad Hassan"
+name: "Farhad Hassan"
+email: your@email
+description: "A passionate wireless security and sensing researcher"
+url: "https://farhadhassan.github.io"
+baseurl: ""
+
+author:
+  name: "Farhad Hassan"
+  avatar: "/images/profile.jpg"   # upload this file in /images
+  location: "Liverpool, UK"
+  affiliation: "School of Computer Science and Informatics, University of Liverpool"
+  links:
+    - label: "Email"
+      url: "mailto:your@email"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/your-id"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=YOURID"
+    - label: "ORCID"
+      url: "https://orcid.org/0000-0000-0000-0000"
